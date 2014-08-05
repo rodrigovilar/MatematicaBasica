@@ -1,0 +1,1 @@
+[Qual a operação que usa o sinal + ?#adição$1][Qual a operação que usa o sinal - ?#subtração$1][Se maria tem 2 palitos e ganha mais 2 com quantos palitos ele fica?#4$2][qual a cor do cavalo branco de napoleão?#branco$3]
